@@ -17,4 +17,7 @@ conda install <package name>
 ```
 
 ## Reproduction of the experimental results
-Run experiment.ipynb notebook 
+```
+Run experiment.ipynb 
+```
+In any environment that can process notebooks
