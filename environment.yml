@@ -1,0 +1,18 @@
+# env should be created with mamba/conda
+name: msd_6_term
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9.7
+  - pip
+  - numpy
+  - scipy
+  - pandas
+  - numba
+  - matplotlib
+  - ipykernel
+  - pip:
+    - sktime
+    - tsfresh
+    - xgboost
+    - torch 
