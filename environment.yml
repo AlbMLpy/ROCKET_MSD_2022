@@ -11,8 +11,9 @@ dependencies:
   - numba
   - matplotlib
   - ipykernel
+  - pytorch
+  - torchvision
   - pip:
     - sktime
     - tsfresh
     - xgboost
-    - torch 
